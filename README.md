@@ -28,10 +28,10 @@ I am **Le Thai**, I am interested in scalable data pipelines, data modeling, and
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-- 🔧 [ELT Pipeline with Airflow, dbt & PostgreSQL](https://github.com/lethaimai/etl_pipeline) — Containerized local ELT pipeline orchestrated with Apache Airflow, transforming data with dbt across dual PostgreSQL databases
-- 🧪 [Databricks Unit Testing with PySpark](https://github.com/lethaimai/databricks-unit-testing) — Unit testing PySpark functions locally using Databricks Connect, pytest, and chispa — with CI/CD via GitHub Actions
+-  [ELT Pipeline with Airflow, dbt & PostgreSQL](https://github.com/lethaimai/etl_pipeline) — Containerized local ELT pipeline orchestrated with Apache Airflow, transforming data with dbt across dual PostgreSQL databases
+-  [Databricks Unit Testing with PySpark](https://github.com/lethaimai/databricks-unit-testing) — Unit testing PySpark functions locally using Databricks Connect, pytest, and chispa — with CI/CD via GitHub Actions
 
 ---
 
